@@ -45,11 +45,9 @@
 
 ## 🤓 Projects & GitHub
 
-<details>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athish-ns&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athish-ns&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
-</details>
 
 
 
