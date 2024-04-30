@@ -1,4 +1,4 @@
-![Banner Image](https://imgur.com/a/rbloKMz)
+![Banner Image](https://imgur.com/fy00RzY)
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Ai and Web developer 👨🏻‍💻 from bangalore, India who loves to create ai's and websites 🌐.</h3>
 
 <p align="center">
