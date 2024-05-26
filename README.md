@@ -1,5 +1,5 @@
 ![Banner Image](https://imgur.com/fy00RzY.png)
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm an Ai and Web developer 👨🏻‍💻 from bangalore, India who loves to create ai's and websites 🌐.</h3>
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm an Ai and Web developer 👨🏻‍💻 from bangalore, India who loves to create ai's and websites .</h3>
 
 <p align="center">
   <a href="mailto:athishnsofficial@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
