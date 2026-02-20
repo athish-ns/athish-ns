@@ -25,30 +25,23 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+
 
 ## 🤔 Stuff To Explore
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 🤓 GitHub
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athish-ns&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athish-ns&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
-
-
 
 <div align="center">
   
